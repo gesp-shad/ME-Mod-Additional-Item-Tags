@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-<!-- ========== MOD: Lime Processing ========== -->
   <Definition xsi:type="MyObjectBuilder_ItemTagDefinition">
     <Id Type="ItemTagDefinition" Subtype="StoneLarge" />
     <DisplayName>Large Stone</DisplayName>
@@ -20,49 +19,49 @@
     <Id Type="ItemTagDefinition" Subtype="Limestone" />
     <DisplayName>Limestone</DisplayName>
     <Description>Limestone</Description>
-    <Icon>Textures\GUI\Icons\Materials\LimestoneLarge.dds</Icon>
+    <Icon>Textures\GUI\Icons\Materials\shad_LimestoneLarge.dds</Icon>
   </Definition>
 
   <Definition xsi:type="MyObjectBuilder_ItemTagDefinition">
     <Id Type="ItemTagDefinition" Subtype="Quicklime" />
     <DisplayName>Quicklime</DisplayName>
     <Description>Quicklime</Description>
-    <Icon>Textures\GUI\Icons\Materials\LimestoneSmall.dds</Icon>
+    <Icon>Textures\GUI\Icons\Materials\shad_LimestoneSmall.dds</Icon>
   </Definition>
 
   <Definition xsi:type="MyObjectBuilder_ItemTagDefinition">
     <Id Type="ItemTagDefinition" Subtype="Sand" />
     <DisplayName>Sand</DisplayName>
     <Description>Sand</Description>
-    <Icon>Textures\GUI\Icons\Materials\SandBag_New.dds</Icon>
+    <Icon>Textures\GUI\Icons\Materials\shad_SandBag_New.dds</Icon>
   </Definition>
 
   <Definition xsi:type="MyObjectBuilder_ItemTagDefinition">
     <Id Type="ItemTagDefinition" Subtype="Ash" />
     <DisplayName>Ash</DisplayName>
     <Description>Ash</Description>
-    <Icon>Textures\GUI\Icons\Materials\AshBag.dds</Icon>
+    <Icon>Textures\GUI\Icons\Materials\shad_AshBag.dds</Icon>
   </Definition>
 
   <Definition xsi:type="MyObjectBuilder_ItemTagDefinition">
     <Id Type="ItemTagDefinition" Subtype="AshPellet" />
     <DisplayName>Ash Pellet</DisplayName>
     <Description>Ash Pellet</Description>
-    <Icon>Textures\GUI\Icons\Components\Icon_AshPellet.dds</Icon>
+    <Icon>Textures\GUI\Icons\Components\shad_Icon_AshPellet.dds</Icon>
   </Definition>
 
   <Definition xsi:type="MyObjectBuilder_ItemTagDefinition">
     <Id Type="ItemTagDefinition" Subtype="SlakedLime" />
     <DisplayName>Slaked Lime</DisplayName>
     <Description>Slaked Lime</Description>
-    <Icon>Textures\GUI\Icons\Components\Bowl_Slaked_Lime.dds</Icon>
+    <Icon>Textures\GUI\Icons\Components\shad_Bowl_Slaked_Lime.dds</Icon>
   </Definition>
 
   <Definition xsi:type="MyObjectBuilder_ItemTagDefinition">
     <Id Type="ItemTagDefinition" Subtype="LimeMortar" />
     <DisplayName>Lime Mortar</DisplayName>
     <Description>SLime Mortar</Description>
-    <Icon>Textures\GUI\Icons\Components\Bowl_Lime_Mortar.dds</Icon>
+    <Icon>Textures\GUI\Icons\Components\shad_Bowl_Lime_Mortar.dds</Icon>
   </Definition>
 
 <!-- ========== MOD: More Minerals ========== -->
